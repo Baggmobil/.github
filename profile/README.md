@@ -32,3 +32,9 @@ Feel free to take ownership of your individual modules/codebases and add tickets
 | --- | --- |
 | [Org Profile](https://github.com/Baggmobil/.github) | Contains documentation shown in our GitHub org profile |
 | [Sandstone](https://github.com/Baggmobil/sandstone) | Contains the codebase for our client-facing cross-platform mobile app |
+
+## Helpful Links
+
+- [Project Discussion Forum](https://github.com/orgs/Baggmobil/discussions)
+- [Discord Server](https://discord.gg/tJjv34wq)
+- [Miro Boards](https://miro.com/welcome/b3c0RGJqazdEZUhvSnVaMGlRUWFObDRhNG9JRUtmZnltSzI3QVljN1NyQmdwZnhNOXFjclEwYW4yOGdjb1V4d3wzNDU4NzY0NTU5NDk5MTAyMzQ5fDE=?share_link_id=665115600169)
