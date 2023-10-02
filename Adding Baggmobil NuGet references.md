@@ -18,4 +18,7 @@ Once you clone any [Baggmobile repository](https://github.com/orgs/Baggmobil/rep
     - Source: https://nuget.pkg.github.com/Baggmobil/index.json
 5. Click the *OK* button to apply the changes and close the *Options* the pop-up window.
 6. Rebuild your solution. You will get a prompt requesting for credentials.
-7. 
+7. If you do not have a Personal Access Token (classic), follow steps in [Generating Personal Access Token (Classic)](https://github.com/Baggmobil/.github/blob/master/Generating%20Personal%20Access%20Token%20(Classic).md) document to generate one.
+8. In Visual Studio, in the window requesting for credentials, enter your GitHub username and Personal Access Token (Classic) generated in Step 7.
+9. Press *OK* button.
+10. Rebuild the solution. The solution should build successfully now.
